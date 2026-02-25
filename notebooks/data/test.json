@@ -1,0 +1,61 @@
+[
+    {
+    "Bridge Loan": {
+        "capital_stack_position": "Senior Debt",
+        "term_length": "Short-Term Financing",
+        "scenario": "Stabilization",
+        "underwriting_approach":"Exit-Focused",
+        "regulatory_category": "Private Debt"
+    }, 
+    "Fix and Flip": {  
+        "capital_stack_position": "Senior Debt",
+        "term_length": "Short-Term Financing",
+        "scenario":"Heavy Renovation",
+        "underwriting_approach": "Exit-Focused",
+        "regulatory_category": "Private Debt"
+    },
+    "Hard Money Loan": {
+        "capital_stack_position": "Senior Debt",
+        "term_length": "Short-Term Financing",
+        "scenario": "Heavy Renovation",
+        "underwriting_approach": "Asset-Based",
+        "regulatory_category": "Private Debt"
+    },
+    "Permanent Loan": {
+        "capital_stack_position": "Senior Debt",
+        "term_length": "Long-Term Financing",
+        "scenario": "Acquisition",
+        "underwriting_approach": "Cash-Flow Based",
+        "regulatory_category": "GSE"
+        },
+    "DSCR Loan": {
+        "capital_stack_position": "Senior Debt",
+        "term_length": "Long Term Financing",
+        "scenario": "Acquisition",
+        "underwriting_approach": "Cash-Flow Based",
+        "regulatory_category": "Private Debt"
+        },
+    "Construction Loan": {
+        "capital_stack_position": "Senior Debt",
+        "term_length": "Short Term Financing",
+        "scenario": "Construction",
+        "underwriting_approach": "Exit-Focused",
+        "regulatory_category": "Private Debt"
+        },
+    "Mezzanine Debt": {
+        "capital_stack_position": "Mezzanine Debt",
+        "term_length": "Project Duration(any)",
+        "scenario": "Gap Financing",
+        "underwriting_approach": "Hybrid / Institutional",
+        "regulatory_category": "Private Debt"
+        },
+    "SBA Loan":
+        {
+            "capital_stack_position": "Senior Debt",
+            "term_length": "Long-Term Financing",
+            "scenario": "Owner Occupancy",
+            "underwriting_approach": "Borrower-Based",
+            "regulatory_category": "Government-Backed"
+        }
+    }
+]
